@@ -64,7 +64,7 @@ Make sure you have the following installed:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Qusai007/My-Portfolio-main.git
 cd portfolio
 ```
 
