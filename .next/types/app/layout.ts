@@ -1,4 +1,4 @@
-// File: /Users/qusai/Documents/Java Script/My-Portfolio-main/app/layout.tsx
+// File: D:\My-Portfolio-main\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
